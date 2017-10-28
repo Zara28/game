@@ -1,0 +1,8 @@
+MIN_COUNT_OF_GHOSTS = 29
+MAX_COUNT_OF_GHOSTS = 34
+HEROLIVES = 66
+MAX_VX = 34
+MIN_VX = 30
+MAX_VY = 34
+MIN_VY = 30
+KOD = jfhuygwrtfwefuygtwuegftttt
